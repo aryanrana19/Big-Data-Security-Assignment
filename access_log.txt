@@ -1,0 +1,3 @@
+2025-04-27 23:50:51 | UserID: 101 | Accessed Data: ['1', 'Alice', 'alice@example.com']
+2025-04-27 23:50:51 | UserID: 102 | Accessed Data: ['2', 'Bob', 'bob@example.com']
+2025-04-27 23:50:51 | UserID: 103 | Accessed Data: ['3', 'Charlie', 'charlie@example.com']
